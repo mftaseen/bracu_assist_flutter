@@ -1,16 +1,5 @@
 # bracu_assist
 
-A new Flutter project.
+An app built for everyday needs of Brac University students.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is completed under the Extra Learning Activity of Residential Semester Batch 71 (Spring '26) of Brac University under the supervision of Ratul Hasan (ratul.hasan@g.bracu.ac.bd).
